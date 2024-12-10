@@ -9,6 +9,7 @@ This is a collection of random scripts that I developped during various and rand
 The scripts here may already exist in a better version somewhere else (or might exist later), they are just things that I developped in certain situations and I thought it could help to share them.
 
 They are not thought to be the most effective in computational time or to be space efficient, but to complete simple goals in manipulating common bioinformatic data formats.
+Nevertheless, they are well commented to help anyone understand what is happening in the code.
 
 Some folders may also contains markdown files with commonly used command lines to help people handle the tools and extract information, describing the options used. Such file are what I learned while discovering the tools and wished I knew before having to explore the manuals.
 
