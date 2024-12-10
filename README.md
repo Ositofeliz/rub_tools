@@ -1,5 +1,4 @@
-# rub_tools
-Random Useful Bioinformatics Tools (RUB Tools)
+# Random Useful Bioinformatics Tools (RUB Tools)
 
 A collection of scripts and pipelines created for various bioinformatics data manipulations. These tools aim to provide reusable solutions for common challenges faced in bioinformatics workflows.
 
